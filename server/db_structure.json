@@ -1,0 +1,14 @@
+{
+  "user1" : {
+    "carbon_reduction" : 2000,
+    "time_prev" : 100
+  },
+  "user2" : {
+    "carbon_reduction" : 1000,
+    "time_prev" : 50
+  },
+  "user3" : {
+    "carbon_reduction" : 4000,
+    "time_prev" : 150
+  }
+}
